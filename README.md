@@ -9,4 +9,4 @@
 👋 Hi there! I'm Prajwal Gaire, a Computer Engineering student at Kathmandu University and a passionate web developer. I have hands-on experience with various technologies and am also familiar with mobile development.
 
 <h1>💻 Technologies & Skills:</h1>
-<a href="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"></a>
+<img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" />
