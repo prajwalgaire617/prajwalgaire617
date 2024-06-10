@@ -39,6 +39,8 @@
 
 <img src="https://img.shields.io/badge/Audio_Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
 
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+
 
 
   
