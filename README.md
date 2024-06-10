@@ -46,6 +46,6 @@
   
 </span>
 <h1><em>Socials 🌐:  </em></h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangam-ghimire) 
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />(https://linkedin.com/in/sangam-ghimire) 
 
 
