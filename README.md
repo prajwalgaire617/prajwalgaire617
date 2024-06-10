@@ -45,6 +45,6 @@
 
   
 </span>
-<h1>Socials 🌐:  </h1>
+<h1><em>Socials 🌐:  </em></h1>
 
 
