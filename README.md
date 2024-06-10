@@ -1,4 +1,4 @@
-## Hi there 👋
+##<b> Hi there </b>👋
 
 <!--
 **prajwalgaire617/prajwalgaire617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-C C++ CSS3 HTML5 JavaScript Markdown LaTeX Python Shell Script TypeScript FastAPI Fastify NodeJS React React Native Express.js Jenkins MySQL MongoDB Pandas NumPy PyTorch TensorFlow LINUX Docker
+
