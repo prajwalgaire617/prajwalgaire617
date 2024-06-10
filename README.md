@@ -7,3 +7,5 @@
 
 <h1>About me 🙋🏻‍♂️ </h1>
 👋 Hi there! I'm Prajwal Gaire, a Computer Engineering student at Kathmandu University and a passionate web developer. I have hands-on experience with various technologies and am also familiar with mobile development.
+
+<h1>💻 Technologies & Skills:</h1>
