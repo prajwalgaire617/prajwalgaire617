@@ -1,4 +1,4 @@
-##<b> Hi there </b>👋
+##<h1> Hi 👋, I'm Sangam Ghimire </h1>
 
 <!--
 **prajwalgaire617/prajwalgaire617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
