@@ -10,6 +10,7 @@
 
 <h1>💻 Technologies & Skills:</h1>
 <span>
+<img src="![image](https://github.com/user-attachments/assets/7e73bbed-be9f-4e8a-a6cc-011ca5295b97)" />
 
 </span>
 <span>
